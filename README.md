@@ -1,13 +1,10 @@
-Respostas Questões Múltipla Escolha
+**Respostas Questões Múltipla Escolha**
 
-4-Questão
+**4-Questão**  
+- Resposta: E
 
-Resposta: E
+**5-Questão**  
+- Resposta: A
 
-5-Questão
-
-Resposta: A
-
-6-Questão
-
-Resposta: B
+**6-Questão**  
+- Resposta: B
